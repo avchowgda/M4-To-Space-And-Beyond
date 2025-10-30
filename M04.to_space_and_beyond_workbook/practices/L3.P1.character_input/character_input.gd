@@ -15,4 +15,6 @@ func _process(delta: float) -> void:
 	velocity = direction * max_speed
 	position += velocity * delta
 	if velocity.length() > 0.0:
-		rotation = velocity.angle()
+	if direction.length() >1.0:
+		direction = direction.normalized()
+	
