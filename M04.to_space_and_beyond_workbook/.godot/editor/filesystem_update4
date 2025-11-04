@@ -1,7 +1,6 @@
 res://lessons/sprite_2d.tscn
 res://addons/gdpractice/assets/theme.tres
 res://lessons/ship.gd
-res://practices/L3.P1.character_input/character_input.gd
-res://practices/L3.P1.character_input/character_input.tscn
-res://practices/L3.P2.character_diagonals/character_diagonals.gd
-res://practices/L3.P2.character_diagonals/character_diagonals.tscn
+res://space_level.tscn
+res://lessons/Space_Level.tscn
+res://assets/ship/main_thruster/thruster_material.tres
