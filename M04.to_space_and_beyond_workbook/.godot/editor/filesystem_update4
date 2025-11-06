@@ -1,6 +1,6 @@
-res://lessons/sprite_2d.tscn
-res://addons/gdpractice/assets/theme.tres
-res://lessons/ship.gd
-res://space_level.tscn
 res://lessons/Space_Level.tscn
+res://addons/gdpractice/assets/theme.tres
 res://assets/ship/main_thruster/thruster_material.tres
+res://assets/background/space_material.tres
+res://lessons/ship.gd
+res://lessons/sprite_2d.tscn
